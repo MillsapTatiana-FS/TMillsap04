@@ -5,13 +5,11 @@ module.exports = {
     extend: {},
     fontFamily: {
     ['Raleway']
-
-    }
-  },
+  :,
   variants: {
     extend: {},
   },
   plugins: [],
   theme:{
   }
-}
+}}
